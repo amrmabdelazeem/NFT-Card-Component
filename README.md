@@ -46,4 +46,4 @@ The main area that needs sharpning is the design patterns and how to get the lay
 ## Author
 
 - Website - [AMR ABDELAZEEM](https://github.com/amrmabdelazeem)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@amrmabdelazeem)
+- Frontend Mentor - [@amrmabdelazeem](https://www.frontendmentor.io/profile/@amrmabdelazeem)
