@@ -23,10 +23,24 @@ body{
 .container .image-container{
     height: 330px;
     border-radius: 11px;
+    background: url("../images/image-equilibrium.jpg") no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
     width: 330px;
+    cursor: pointer;
 }
+
+.container .image-container:hover{
+    background: url("../images/hover-image-equilibrium.png") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 330px;
+    width: 330px;
+}
+
 .image-container img{
     height: 330px;
     border-radius: 11px;
