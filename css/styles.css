@@ -160,7 +160,7 @@ body{
 }
 
 /* MOBILE */
-@media screen and (mind-width:300px) and (max-width: 760px) {
+@media screen and (min-width:300px) and (max-width: 760px) {
     .container{
         width: 280px;
     }
