@@ -2,6 +2,18 @@
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+## Table of contents
+
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What I learned](#What-I-learned)
+  - [Continued development](#Continued-development)
+  - [Useful resources](#Useful-resources)
+  - [Author](#author)
+
+
 ### The challenge
 
 Users should be able to:
@@ -11,14 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-[label](../../ShareX/Screenshots/2023-01/chrome_iEPdzI9GyB.jpg%0D) ![Alt text](../../ShareX/Screenshots/2023-01/firefox_4LGRjzLSv0.jpg)
+[Mobile](https://i.imgur.com/T5RzAFH.jpeg)
+[Desktop](https://i.imgur.com/9JvR192.jpeg)
+[Hovering-state](https://i.imgur.com/hFFnkJi.jpeg)
 
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-JqPmleIbaU)
 - Live Site URL: [NFT Card](https://amrmabdelazeem.github.io/NFT-Card-Component/)
 
-## My process
 
 ### Built with
 
