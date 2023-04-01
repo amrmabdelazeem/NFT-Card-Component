@@ -20,7 +20,8 @@ body{
     padding: 22px;
     padding-left: 25px;
     width: 345px;
-    margin-top: 100px;}
+    margin-top: 3rem;
+}
 
 .container .image-container{
     height: 330px;
@@ -171,6 +172,3 @@ body{
     
 }
 
-
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
