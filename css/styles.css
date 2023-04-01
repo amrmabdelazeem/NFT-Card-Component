@@ -25,7 +25,6 @@ body{
 
 .container .image-container{
     height: 330px;
-    border-radius: 11px;
     background: url("../images/image-equilibrium.jpg") no-repeat;
     background-position: center;
     background-size:contain;
@@ -41,13 +40,13 @@ body{
     background-position: center;
     background-size: contain;
     height: 300px;
+    padding-left: 20px;
     width: 100%;
 }
 
 .image-container img{
     height: 330px;
     width: 330px;
-    border-radius: 11px;
 
 }
 
@@ -161,7 +160,7 @@ body{
 }
 
 /* MOBILE */
-@media screen and (min-width:300px) and (max-width: 760px) {
+@media screen and (min-width:375px) {
     .container{
         padding-top: 20px;
         padding-bottom: 20px;
